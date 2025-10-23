@@ -32,6 +32,7 @@ public class LoginPageData {
 	    // 3. Perform the action using the LoginPage object
 	    // Assuming your LoginPage has a method to input credentials:
 	    loginPage.invalidlogin(username, companyname, password);
+	    System.out.println("");
 	   
 	}
 	
