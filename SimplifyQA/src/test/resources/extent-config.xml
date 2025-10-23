@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+ 
+        <!-- Report Theme -->
+        <!-- Options: standard (light), dark -->
+        <theme>dark</theme>
+ 
+        <!-- Document Encoding -->
+        <encoding>UTF-8</encoding>
+ 
+        <!-- Protocol for internal JS and CSS -->
+        <protocol>https</protocol>
+ 
+        <!-- Report Title displayed in the browser tab -->
+        <documentTitle>SimplifyQA Automation Report</documentTitle>
+ 
+        <!-- Report Name displayed inside the report -->
+        <reportName>SimplifyQA Test Execution Summary</reportName>
+ 
+        <!-- Timestamp Format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+ 
+        <!-- Chart location (top or bottom of report) -->
+        <chartLocation>top</chartLocation>
+ 
+        <!-- Enable timeline in report -->
+        <timelineEnabled>true</timelineEnabled>
+ 
+        <!-- Add custom JavaScript if needed -->
+        <js></js>
+ 
+        <!-- Add custom CSS if needed -->
+        <css></css>
+ 
+    </configuration>
+</extentreports>

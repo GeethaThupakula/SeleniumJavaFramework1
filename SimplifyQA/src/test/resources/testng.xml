@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CucumberSuite" parallel="tests" thread-count="2">
+
+    <test name="Login Tests">
+        <classes>
+            <class name="TestRunner.ParallelRun"/>
+        </classes>
+    </test>
+
+</suite>
